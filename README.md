@@ -21,8 +21,11 @@
 - One way to achieve this is to minimize the sum of all the **pair-wise squared Euclidean distances** between the observations in each cluster.
 - The initial step is to randomly assign each observation to one of K cluster.
 - Iterate until the cluster assignments stop changing:
-  - For each of the K clusters, compute the cluster centroid. The K<sup>th</sup> cluster centroid if the mean of the observations assigned to the K<sup>th</sup> cluster.
+  - For each of the K clusters, compute the cluster centroid by t aking the mean vector of points in the cluster. The K<sup>th</sup> cluster centroid if the mean of the observations assigned to the K<sup>th</sup> cluster.
   - Assign each observation to the cluster whose centroid is closest (where "closest" is defined using Euclidean distance).
+  - Another way of choosing a "best" K value is by using the elbow method.
+  First of all, I start off by computing the sum of **Squared error (SSE)** for some values of K (for example 2, 4, 6, 8 etc.).
+  - The SSE is defined as the sum of the squared distance between each member of the cluster and it's centroid.
 
 
 

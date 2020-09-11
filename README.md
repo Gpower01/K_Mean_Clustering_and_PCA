@@ -30,7 +30,7 @@
 ## The Elbow Method
 if you plot K against the SSE, you will see that the error decreases as K gets larger, this is beacause when the number of clusters increases, they should be smaller, so distortion is also smaller.
 
-- The idea behind the elbow method is to choose the K at which the SSE decrease abruptly. This produces an "elbow effect" in the graph shown below. 
+- The idea behind the elbow method is to choose the K at which the SSE decrease abruptly. This produces an "elbow effect" in the graph shown below. For example the elbow cluster occur around 6 to 7 clusters which implies that's the best clusters to choose from.
 
 <img src="./images/elbow_effect.png" width="600" height="400">
 

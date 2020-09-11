@@ -38,7 +38,8 @@ if you plot K against the SSE, you will see that the error decreases as K gets l
 This project utilises the scikit-learn dataset to demonstrated the K-Mean Clustering algorithm.
 
 ## Dependencies
-- Seabron 
+- `install and import Seabron` data visualisation library
+- `install and import matplotlib` data visualisation library
 
 
 

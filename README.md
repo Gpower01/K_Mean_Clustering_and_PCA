@@ -32,7 +32,7 @@ if you plot K against the SSE, you will see that the error decreases as K gets l
 
 - The idea behind the elbow method is to choose the K at which the SSE decrease abruptly. This produces an "elbow effect" in the graph shown below. 
 
-![elbow_effect](./images/elbow_effect.png)
+<img src="./images/elbow_effect.png" width="600" height="400">
 
 
 

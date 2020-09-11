@@ -34,6 +34,9 @@ if you plot K against the SSE, you will see that the error decreases as K gets l
 
 <img src="./images/elbow_effect.png" width="600" height="400">
 
+# Project 01
+
+
 
 
 

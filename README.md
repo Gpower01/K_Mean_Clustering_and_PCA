@@ -27,6 +27,12 @@
   First of all, I start off by computing the sum of **Squared error (SSE)** for some values of K (for example 2, 4, 6, 8 etc.).
   - The SSE is defined as the sum of the squared distance between each member of the cluster and it's centroid.
 
+## The Elbow Method
+if you plot K against the SSE, you will see that the error decreases as K gets larger, this is beacause when the number of clusters increases, they should be smaller, so distortion is also smaller.
+
+- The idea behind the elbow method is to choose the K at which the SSE decrease abruptly. This produces an "elbow effect" in the graph shown below. 
+
+![elbow_effect](./images/elbow_effect.png)
 
 
 

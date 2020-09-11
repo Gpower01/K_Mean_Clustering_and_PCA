@@ -15,7 +15,7 @@
 - To perform K-means clustering, one must first specify the desired number of clusters K
 - Then the K-means algorithm will assign each observation to exactly one of the K clusters.
 
-![K_Clustering](./images/3D_plane_lines.png)
+![K_Clustering](./images/k_clustering.png)
 
 
 

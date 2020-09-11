@@ -17,6 +17,14 @@
 
 ![K_Clustering](./images/k_clustering.png)
 
+- The main objective is to have a minimal "within-cluster-variation": this implies that elements within a cluster should be as similar as possible.
+- One way to achieve this is to minimize the sum of all the **pair-wise squared Euclidean distances** between the observations in each cluster.
+- The initial step is to randomly assign each observation to one of K cluster.
+- Iterate until the cluster assignments stop changing:
+  - For each of the K clusters, compute the cluster centroid. The K^th cluster centroid if the mean of the observations assigned to the K^th cluster.
+  - Assign each observation to the cluster whose centroid is closest (where "closest" is defined using Euclidean distance).
+
+
 
 
 

@@ -35,11 +35,26 @@ if you plot K against the SSE, you will see that the error decreases as K gets l
 <img src="./images/elbow_effect.png" width="600" height="400">
 
 # Project 01
-This project utilises the scikit-learn dataset to demonstrated the K-Mean Clustering algorithm.
+This project utilises the make_blob dataset from scikit-learn to demonstrated the application of K-Mean Clustering algorithm for unsupervised machine learning models.
 
 ## Dependencies
 - `install and import Seabron` data visualisation library
 - `install and import matplotlib` data visualisation library
+
+## K-Mean Clustering Results
+
+- **K=2**
+<img src="./images/K_2.png" width="600" height="400">
+
+- **K=3**
+<img src="./images/K_3.png" width="600" height="400">
+
+- **K=4**
+<img src="./images/K_4.png" width="600" height="400">
+
+- **K=8**
+<img src="./images/K_8.png" width="600" height="400">
+
 
 
 

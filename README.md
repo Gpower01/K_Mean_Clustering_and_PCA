@@ -84,6 +84,21 @@ The dataset have 777 observations with 18 variables:
 * **`Expend`**: Instructional expenditure per student
 * **`Grad.Rate`**: Graduation rate
 
+# Data Analysis Results 
+
+- **Graduation Rate vs Room.Board**
+<img src="./images/Data_analysis.png" width="600" height="400">
+
+- **F.Undergrad vs Outstate**
+<img src="./images/EDA_outstate.png" width="600" height="400">
+
+- **Outstate Tuition for Private and Public Universities**
+<img src="./images/outstate_tuition.png" width="600" height="400">
+
+- **Graduation Rate for Private and Public Universities Compared**
+<img src="./images/Grad_Rate.png" width="600" height="400">
+
+
 
 
 

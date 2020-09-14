@@ -65,12 +65,12 @@ This project used K-Mean Clustering algorithm to cluster Universities into two g
 ## The Data
 
 The dataset have 777 observations with 18 variables:
-* **`Private A`**: Factor with levels `No` and `Yes` indicating private or public university
+* **`Private`**: A Factor with levels `No` and `Yes` indicating private or public university
 * **`Apps`**: Number of applications received
 * **`Accept`**: Number of applications accepted
 * **`Enroll`**: Number of new students enrolled
-* **`Top10perc Pct.`**: new students from top 10% of H.S. class
-* **`Top25perc Pct.`**: new students from top 25% of H.S. class
+* **`Top10perc`**: Pct. new students from top 10% of H.S. class
+* **`Top25perc`**: Pct. new students from top 25% of H.S. class
 * **`F.Undergrad`**: Number of fulltime undergraduates
 * **`P.Undergrad`**:  Number of parttime undergraduates
 * **`Outstate`**: Out-of-state tuition
@@ -80,7 +80,7 @@ The dataset have 777 observations with 18 variables:
 * **`PhD`**: Pct. of faculty with Ph.D.’s
 * **`Terminal`**: Pct. of faculty with terminal degree
 * **`S.F.Ratio`**: Student/faculty ratio
-* **`perc.alumni Pct.`**: alumni who donate
+* **`perc.alumni`**: Pct. alumni who donate
 * **`Expend`**: Instructional expenditure per student
 * **`Grad.Rate`**: Graduation rate
 

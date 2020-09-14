@@ -65,7 +65,7 @@ This project used K-Mean Clustering algorithm to cluster Universities into two g
 ## The Data
 
 The dataset have 777 observations with 18 variables:
-* `Private A`: Factor with levels `No` and `Yes` indicating private or public university
+* `**Private A**`: Factor with levels `No` and `Yes` indicating private or public university
 * `Apps`: Number of applications received
 * `Accept`: Number of applications accepted
 * `Enroll`: Number of new students enrolled

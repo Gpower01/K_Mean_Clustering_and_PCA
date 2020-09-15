@@ -93,6 +93,7 @@ The dataset have 777 observations with 18 variables:
 <img src="./images/EDA_outstate.png" width="600" height="400">
 
 - **Outstate Tuition for Private and Public Universities**
+- Visualising the data using seaborn [sns.FacetGrid](http://seaborn.pydata.org/generated/seaborn.FacetGrid.html) to create stacked histogram.
 <img src="./images/outstate_tuition.png" width="600" height="400">
 
 - **Graduation Rate for Private and Public Universities Compared**

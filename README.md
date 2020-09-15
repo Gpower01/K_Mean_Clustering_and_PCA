@@ -121,6 +121,7 @@ For in depth understanding on the mathematical principles behind this concept. P
 
 <img src="./images/PCA_3.png" width="600" height="400">
 
+**Note:** PCA is usually used for data analysis and we always want to standardize our data by some scale for PCA.
 
 
 

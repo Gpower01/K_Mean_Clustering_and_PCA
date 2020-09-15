@@ -99,7 +99,8 @@ The dataset have 777 observations with 18 variables:
 - **Graduation Rate for Private and Public Universities Compared**
 <img src="./images/Grad_Rate.png" width="600" height="400">
 
-
+# Principal Component Analysis
+For in depth understanding on the mathematical principles behind this concept. Please read section 10.2 of [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/).
 
 
 

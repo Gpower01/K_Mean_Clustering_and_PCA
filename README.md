@@ -99,8 +99,32 @@ The dataset have 777 observations with 18 variables:
 - **Graduation Rate for Private and Public Universities Compared**
 <img src="./images/Grad_Rate.png" width="600" height="400">
 
-# Principal Component Analysis
+# Principal Component Analysis (PCA)
 For in depth understanding on the mathematical principles behind this concept. Please read section 10.2 of [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/).
+
+- PCA is an unsupervised statistical technique used to examine the inter-relations among a set of variables in order to identify the underlying structure of those variables.
+- It is also known sometimes as a general **factor analysis**
+
+## Background
+- Here we have two features `X` and `Y` and we add a regression line through the plot
+<img src="./images/PCA_1.png" width="600" height="400">
+
+- Next we can add an orthogonal line and we can begin to understand the components of our dataset!
+
+<img src="./images/PCA_2.png" width="600" height="400">
+
+- Components are a linear transformation that chooses a variable system for the data set such that the greatest variance of the data set comes to lie on the first axis and likewise the second greatest variance on the second axis and so on.
+
+- This process allows us to reduce the number of variables used in an analysis.
+
+- We can continue this analysis into higher dimensions.
+
+<img src="./images/PCA_3.png" width="600" height="400">
+
+
+
+
+
 
 
 

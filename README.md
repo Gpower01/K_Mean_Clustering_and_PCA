@@ -125,8 +125,12 @@ For in depth understanding on the mathematical principles behind this concept. P
 - PCA is an unsupervised learning algorithm.
 - PCA is just the transformation of the dataset. I will use the **cancer** dataset from **scikit-learn** to demonstrate the PCA algorithm and application.
 
+## Principal Component Plots
 
+<img src="./images/PCA_plot.png" width="600" height="400">
 
+## HeatMap
+<img src="./images/PCA_heatmap.png" width="600" height="400">
 
 
 

@@ -132,6 +132,8 @@ For in depth understanding on the mathematical principles behind this concept. P
 ## HeatMap
 <img src="./images/PCA_heatmap.png" width="600" height="400">
 
+- This heatmap and the color bar basically represent the correlation betwwen the various features and the principal component itself.
+
 
 
 
